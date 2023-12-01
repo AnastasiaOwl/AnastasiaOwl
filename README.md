@@ -6,7 +6,7 @@
    - Java Programming
    - Database Management
    - HTML
-   - 
+
  📫 How to reach me:
   - 📧 Email: [fiillina.anastasia@gmail.com](mailto:fiillina.anastasia@gmail.com)
   - 📱 Telegram: [Filina_Anastasia](https://t.me/fillina_anastasia)
