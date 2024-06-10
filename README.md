@@ -6,7 +6,7 @@
    - Java Programming
    - Database Management
    - HTML
-   - JavaScript (React)
+   - JavaScript (React, Node.js)
 
  📫 How to reach me:
   - 📧 Email: [fiillina.anastasia@gmail.com](mailto:fiillina.anastasia@gmail.com)
