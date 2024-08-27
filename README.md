@@ -3,10 +3,10 @@
  👀 I’m interested in continuous learning and acquiring new skills and exploring  software development projects
  
  🌱 I’m currently learning:
+   - JavaScript (React, Node.js)
    - Java Programming
    - Database Management
-   - HTML
-   - JavaScript (React, Node.js)
+   - HTML/CSS
 
  📫 How to reach me:
   - 📧 Email: [fiillina.anastasia@gmail.com](mailto:fiillina.anastasia@gmail.com)
