@@ -4,8 +4,7 @@
  
  🌱 I’m currently learning:
    - JavaScript (React, Node.js)
-   - Java Programming
-   - Database Management
+   - Database Management (MySQL)
    - HTML/CSS
 
  📫 How to reach me:
